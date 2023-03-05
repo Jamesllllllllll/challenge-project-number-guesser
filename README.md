@@ -1,4 +1,4 @@
-# [https://jamesllllllllll.github.io/challenge-project-number-guesser/](challenge-project-number-guesser)
+# [challenge-project-number-guesser](https://jamesllllllllll.github.io/challenge-project-number-guesser/)
 
 HTML, CSS and game.js was provided. Added functions to script.js to make the game work.
 
